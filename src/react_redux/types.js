@@ -1,0 +1,3 @@
+export const ADD_VEHICAL = 'ADD_VEHICAL';
+export const DELETE_VEHICAL = 'DELETE_VEHICAL';
+export const SELECT_VEHICAL = 'SELECT_VEHICAL';
